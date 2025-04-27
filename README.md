@@ -1,4 +1,4 @@
-# HF Tokenizer Visualizer 🚀
+# HF Tokenizer Visualizer 🔖
 
 A simple Streamlit app that lets you visualize how any HuggingFace tokenizer splits your text!
 
